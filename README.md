@@ -1,7 +1,7 @@
 # ___Hestia 20___
 
 ###  ___Web Application for Hestia20___
-#### _View project : []()_
+
 #### _Front end Sources : [Codrops](https://tympanus.net/codrops/)_
 
 ```diff
@@ -18,7 +18,7 @@
 
 ## ___View Android App___
 #### _General Android Application : [Hestia'20](https://play.google.com/store/apps/details?id=live.hestia.app)_
-#### _Admin App for volunteering : [View](https://www.hestia.live/admin_app)_
+
 
 ## ___Sample Views___
 
